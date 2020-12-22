@@ -1,0 +1,44 @@
+body{
+  background: #f8f9fa;
+  background-image: url("/image/fondo.png");
+}
+.navbar-view{
+background: #ffffffd1;
+width: 100%;
+}
+
+.container{
+  background: #ffffff;
+}
+
+.content{
+  margin-top: 15px;
+  margin-right: 40px;
+  margin-left: 40px;
+}
+
+.showd{
+  height: 300px;
+  width: 400px;
+margin: 20px;
+}
+.tm{
+  height: 260px;
+  margin-bottom: 25px;
+}
+.img{
+  height:197px ;
+  width:350px ;
+}
+
+.card{
+  margin-bottom: 25px;
+}
+.btna{
+margin-bottom: 5px;
+}
+.tda{
+  width: 30px;
+  padding-right:5px;
+  padding-left:5px;
+}
